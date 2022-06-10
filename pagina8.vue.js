@@ -92,8 +92,8 @@ const Pagina8 = {
       </a>
       <ul class="nav nav-pills header2">
         <li class="nav-item"><router-link to="/" class="nav-link active" aria-current="page" style="background: red; border-color: red;">Home</router-link></li>
-        <li class="nav-item"><router-link to="/pagina2" class="nav-link" style="color: red;">Próxima</router-link></li>
-        <li class="nav-item"><router-link to="/" class="nav-link" style="color: red;">Anterior</router-link></li>           
+        <li class="nav-item"><router-link to="/pagina9" class="nav-link" style="color: red;">Próxima</router-link></li>
+        <li class="nav-item"><router-link to="/pagina7" class="nav-link" style="color: red;">Anterior</router-link></li>           
 
       </ul>
     </header>
