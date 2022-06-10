@@ -94,7 +94,6 @@ const Pagina7 = {
             <li class="nav-item"><router-link to="/" class="nav-link active" aria-current="page" style="background: red; border-color: red;">Home</router-link></li>
             <li class="nav-item"><router-link to="/pagina8" class="nav-link" style="color: red;">Próxima</router-link></li>
             <li class="nav-item"><router-link to="/pagina6" class="nav-link" style="color: red;">Anterior</router-link></li>           
-
           </ul>
         </header>
           <h1 class="pagina">Página 7</h1>
